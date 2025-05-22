@@ -1,0 +1,28 @@
+client/
+│
+├── public/
+│   └── logo.png
+│
+├── src/
+│   ├── components/
+│   │   ├── Header.tsx
+│   │   ├── Footer.tsx
+│   │   └── ProductCard.tsx
+│   │
+│   ├── pages/
+│   │   ├── index.tsx
+│   │   ├── product/[id].tsx
+│   │   └── _app.tsx
+│   │
+│   ├── styles/
+│   │   └── globals.css
+│   │
+│   └── utils/
+│       └── api.ts
+│
+├── next.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── tsconfig.json
+├── package.json
+└── README.md
